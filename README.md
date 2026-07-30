@@ -1,5 +1,8 @@
 # Hasheous plugin for ROM Hub
 
+A project of the [Move Weight Foundation](https://foundation.moveweight.com), a
+501(c)(3).
+
 Implements the RPP v1 `metadata` capability: turns a ROM's **hash** into a
 game identity, using [hasheous.org](https://hasheous.org) — a free, key-free
 public service that matches the signature DATs (No-Intro, Redump, TOSEC, MAME,
