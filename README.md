@@ -181,3 +181,15 @@ checked-in OpenAPI `schema.d.ts` is the response contract used here), and
 `gaseous-project/gaseous-signature-parser` (which is where `game.system` comes
 from). The test fixture is built from those published shapes and is labelled as
 such in `tests/test_hasheous.py`.
+
+---
+
+## Seen working
+
+The cover art and titles in this library were written by metadata plugins like this one. Where a tile still shows a placeholder, no art database carried that game — homebrew and interactive fiction mostly are not in one.
+
+![RomM populated by ROM Hub plugins](https://raw.githubusercontent.com/BlizzHacker/rom-hub/master/docs/screenshots/romm.png)
+
+Full showcase — all three backends (RomM, Gaseous, Retrom), every command transcript, and an honest account of what the pictures do *not* show: **[https://github.com/BlizzHacker/rom-hub/blob/master/docs/SHOWCASE.md](https://github.com/BlizzHacker/rom-hub/blob/master/docs/SHOWCASE.md)**
+
+Part of [ROM Hub](https://github.com/BlizzHacker/rom-hub) — install with `rom-hub plugin install hasheous`.
