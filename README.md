@@ -1,5 +1,7 @@
 # Hasheous plugin for ROM Hub
 
+> Part of **[Cartridge](https://github.com/BlizzHacker/rom-hub/blob/master/BRAND.md)** by MoveWeight — a **[ROMarr](https://github.com/BlizzHacker/romarr)** / ROM Hub plugin. Unofficial; not affiliated with RomM, Gaseous or Retrom.
+
 Implements the RPP v1 `metadata` capability: turns a ROM's **hash** into a
 game identity, using [hasheous.org](https://hasheous.org) — a free, key-free
 public service that matches the signature DATs (No-Intro, Redump, TOSEC, MAME,
